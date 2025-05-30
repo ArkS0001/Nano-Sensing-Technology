@@ -1,0 +1,5 @@
+| Title                                                                 | Journal/Publication                     | Publication Date | DOI/URL                                                                 |
+|----------------------------------------------------------------------|-----------------------------------------|-----------------|-------------------------------------------------------------------------|
+| Advancements in nanomaterials for nanosensors: a comprehensive review | Nanoscale Advances                     | May 24, 2024    | [Link](https://pubs.rsc.org/en/content/articlehtml/2024/na/d4na00214h) |
+| Nanosensor detection of reactive oxygen and nitrogen species leakage in frustrated phagocytosis of nanofibres | Nature Nanotechnology                  | January 3, 2024  | [Link](https://www.nature.com/articles/s41565-023-01575-0)             |
+| Identifying Viral Vector Characteristics by Nanopore Sensing          | ACS Nano                               | June 5, 2024    | [Link](https://pubs.acs.org/doi/10.1021/acsnano.4c01888)              |
